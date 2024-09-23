@@ -14,6 +14,7 @@ La documentación completa de la API está disponible en Postman. Puedes acceder
 - Registro de usuarios y autenticación.
 - Gestión de destinos turísticos.
 - Búsqueda por lugares.
+- Gestión de favoritos.
 - Funcionalidad de agregar y eliminar destinos.
 - Información detallada sobre regiones.
 
